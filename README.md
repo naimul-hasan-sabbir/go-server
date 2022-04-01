@@ -1,4 +1,10 @@
 # go-server
+This server has three routes
+-Root route
+-Hello route
+-Form route
+..-Name input section
+..-Address input section
 
 ## Root route
 ![2022-04-01 20_18_41-Window](https://user-images.githubusercontent.com/54884408/161282038-c5afd8ea-91cf-427e-b92d-c8a64751c747.png)
